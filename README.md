@@ -11,6 +11,9 @@
 ### Solution
 * Run the bat file provided in this github
 
+### Usage
+* jdk.bat 6|7|8
+
 ### Reference
 * This bat file is not written by me! I took it from stackoverflow and I found it really useful to share it here!
 * Thanks to [Chris](http://stackoverflow.com/questions/26324486/properly-installing-java-8-along-with-java-7)
